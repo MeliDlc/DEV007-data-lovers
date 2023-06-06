@@ -2,17 +2,32 @@
 
 
 
-## Índice
+## Introducción
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Consideraciones técnicas](#7-consideraciones-técnicas)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Checklist](#9-checklist)
+Nuestra PokeData fue pensaba en ser amigable e intuitiva con los usuarios fanáticos de Pokémon, dándoles una experiencia similar a la de los personajes en la serie de Pokémon.
+
+Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones de donde se plasmaron las Historias de Usuario para diseñar la página. La idea principal fue desarrollar una "Pokedex" y mantener su experiencia con la serie.
+
+## 1. Recolección de Datos
+
+### Encuesta:
+
+![Poke_encuesta](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/275e26a7-a5b2-40b7-88c5-e9054b105d20)
+
+### Estadisticas del resultado de la encuesta:
+
+![Poke_estadisticas](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/34e368f1-1195-43a2-8862-ad0638fc00a2)
+
+
+### Historias de Usuario
+
+Se desarrollaron las HU  [Figma](https://www.figma.com/file/UHqN04KrCYjeeJR8BEAlXr/Untitled?type=whiteboard&node-id=0%3A1&t=bMkFtyVHZv9LDXB0-1)
+
+![image](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/ba1c84d4-c06e-4004-b658-57967d5fcc26)
+
+![image](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/080fa065-a041-461b-b216-3e31e36f599d)
+
+
 
 ***
 
