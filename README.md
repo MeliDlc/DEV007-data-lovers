@@ -8,7 +8,7 @@ Nuestra PokeData fue pensaba en ser amigable e intuitiva con los usuarios fanát
 
 Para poder trabajar de manera más transparente se hizo una recolección de datos y opiniones de donde se plasmaron las Historias de Usuario para diseñar la página. La idea principal fue desarrollar una "Pokedex" y mantener su experiencia con la serie.
 
-## 1. Recolección de Datos
+## Recolección de Datos
 
 ### Encuesta:
 
@@ -56,7 +56,7 @@ Desarrollamos el diseño de alta fidelidad en Figma, guiandonos de las Historias
 * HTML
 * CSS
 
-## Lenguajes de programación
+## Trabajo Final
 
 Diseño final del proyecto. En aspectos generales, es una copia casi fiel de nuestro protótipo de Figma. Tenemos 2 
 pestañas una principal que cuenta con 3 botones que nos redireccionan a diferentes páginas para el usuario y la segunda 
