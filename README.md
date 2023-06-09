@@ -30,8 +30,9 @@ Se desarrollaron las HU en base a la encuesta y los resultados. Y se diseñaron 
 
 
 ***
+## Pruebas unitarias
 
-## Wireframe de Baja Fidelidad
+### Wireframe de Baja Fidelidad
 
 Desarrollamos el diseño de baja fidelidad en borrador.
 
@@ -40,7 +41,7 @@ Desarrollamos el diseño de baja fidelidad en borrador.
 ![image](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/456fe58e-35ba-4ec2-b781-c8bec84ce0bc)
 
 
-## Wireframe de Alta fidelidad
+### Wireframe de Alta fidelidad
 
 Desarrollamos el diseño de alta fidelidad en Figma, guiandonos de las Historias de Usuario.
 
@@ -49,36 +50,21 @@ Desarrollamos el diseño de alta fidelidad en Figma, guiandonos de las Historias
 ![image](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/a0907b5e-6ead-42c4-b109-b976eb1a12fb)
 
 
-## 3. Objetivos de aprendizaje
+## Lenguajes de programación
 
+* Javascript
+* HTML
+* CSS
 
+## Lenguajes de programación
 
+Diseño final del proyecto. En aspectos generales, es una copia casi fiel de nuestro protótipo de Figma. Tenemos 2 
+pestañas una principal que cuenta con 3 botones que nos redireccionan a diferentes páginas para el usuario y la segunda 
+muestra 4 filtros como tipo, generación, de ordenamiento (ascendente y descendente) y por ultimo el filtro por nombre.
 
-## 5. Criterios de aceptación mínimos del proyecto
+![image](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/c9400e2e-b177-4661-8567-267f9ecec398)
 
-Los criterios para considerar que has completado este proyecto son:
-
-### Definición del producto
-
-### Historias de usuario
-
-
-### Diseño de la Interfaz de Usuario
-
-#### Prototipo de baja fidelidad
-
-#### Prototipo de alta fidelidad
-
-#### Testeos de usabilidad
-
-
-### Implementación de la Interfaz de Usuario (HTML/CSS/JS)
-
-
-### Pruebas unitarias
-
-
-
+![image](https://github.com/MeliDlc/DEV007-data-lovers/assets/129780351/53422d02-200e-4f13-b680-2c72f2f2c1bb)
 
 
 
