@@ -30,7 +30,7 @@ Se desarrollaron las HU en base a la encuesta y los resultados. Y se diseñaron 
 
 
 ***
-## Pruebas unitarias
+## Pruebas Iniciales
 
 ### Wireframe de Baja Fidelidad
 
@@ -68,7 +68,7 @@ muestra 4 filtros como tipo, generación, de ordenamiento (ascendente y descende
 
 
 
-## 9. Checklist
+## Checklist
 
 * [ ] Usa VanillaJS.
 * [ ] Pasa linter (`npm run pretest`)
